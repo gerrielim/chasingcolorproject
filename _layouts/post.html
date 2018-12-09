@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="post-page">
+  <div class="post-text">
+      <div class="post-title">
+        <h1 class="post-title"> {{ page.title }} </h1>
+        <a  class="post-home-button" href="{{ '/' | absolute_url }}" >  <button> Home </button> </a>
+      </div>
+    <div class="post-bio">
+      {{content}}
+    </div>
+  </div>
+  <div class="post-photo-container" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.image }});">
+  </div>
+
+</div>
