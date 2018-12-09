@@ -2,7 +2,7 @@
 layout: post
 title:  "Ankit"
 date:   2017-12-17 14:45:09 -0500
-image: "Ankit.png"
+image: "ankit.png"
 ---
 
 Ankit is a “Indian-American-Canadian male student.

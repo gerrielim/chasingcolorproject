@@ -2,7 +2,7 @@
 layout: post
 title:  "Linda"
 date:   2017-12-04 14:45:09 -0500
-image: "Linda.png"
+image: "linda.png"
 ---
 
 I'm from Allentown, Pennsylvania. But when it comes to major cities, my heart is with Philly - where my sister is, near where I went to college, where the best sports fans are, and where you can get THE BEST Vietnamese food in the Northeast (change my mind).

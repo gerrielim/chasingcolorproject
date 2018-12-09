@@ -2,7 +2,7 @@
 layout: post
 title:  "Vishwadha"
 date:   2017-12-10 14:45:09 -0500
-image: "Vishwadha.png"
+image: "vishwadha.png"
 ---
 
 Vishwadha is the current Miss UAB.

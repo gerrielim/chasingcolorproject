@@ -2,7 +2,7 @@
 layout: post
 title:  "Anjile"
 date:   2017-12-15 14:45:09 -0500
-image: "Anjile.png"
+image: "anjile.png"
 ---
 
 Anjile identifies as Chinese-Mongolian Canadian.
